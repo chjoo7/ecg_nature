@@ -1,0 +1,69 @@
+home:
+
+REFERENCE-v3.csv
+build_datasets.py
+dev.json
+ecg
+ecg1
+ecg_env
+train.ipynb
+train.json
+train.py
+
+ecg:
+LICENSE
+README.md  2099
+__init__.py
+build_datasets.ipynb
+build_datasets.py
+ecg               -d
+ecg_env         -d
+examples        -d
+load.py
+network.py
+predict.py
+requirements.txt
+saved     -d
+setup.sh
+train.py
+util.py
+
+ecg:
+
+__init__.py
+__pycache__
+load.py
+load.pyc
+network.py
+network.pyc
+predict.py
+train.py
+util.py
+util.pyc
+
+ecg_env:
+bin
+lib
+man
+pyvenv.cfg
+
+examples:
+cinc17
+irhythm
+mitdb
+
+cinc17:
+README>md     1570
+REFERENCE-v3.csv
+build_datasets.py
+config.json
+data   -d
+dev.json
+entry
+notebooks  -d
+sample2017.zip
+setup.sh
+train.json
+training2017.zip
+
+
